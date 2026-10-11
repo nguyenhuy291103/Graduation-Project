@@ -1,0 +1,719 @@
+2026-06-04 12:25:47 [WARNING] Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-06-04 12:27:35 [WARNING] Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-06-04 12:27:40 [WARNING] Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-06-04 12:28:10 [INFO] [ENGINE] KHỚP priority=2 category=tre_nguy_hiem keyword='con ngã' | 'CON NGÃ NÓ RỒ'
+2026-06-04 12:28:10 [INFO] [DRY RUN] SMS → +84xxxxxxxxx: [HỖ TRỢ] Trẻ có thể gặp nguy hiểm (12:28 04/06): "CON NGÃ NÓ RỒ"
+2026-06-04 14:00:19 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 0b40d507-918f-4ddb-87ae-91fe833b1113)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:00:19 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 14:00:20 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 98167733-88ce-4d36-a487-2ceb4120498c)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:00:20 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 14:00:23 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 6856a0ee-18c6-4176-af94-d59652d1acf0)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:00:23 [WARNING] Retrying in 4s [Retry 3/5].
+2026-06-04 14:00:28 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: af811ae9-e7b9-482c-8c81-20c67789975a)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:00:28 [WARNING] Retrying in 8s [Retry 4/5].
+2026-06-04 14:00:36 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 127cac63-9c9f-4b99-b26d-cb576f430402)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:00:36 [WARNING] Retrying in 8s [Retry 5/5].
+2026-06-04 14:05:43 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: f78003c2-06e1-4cf4-aa4a-cde9eabd4526)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:05:43 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 14:05:46 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: baef53d9-4b28-4c7a-ace5-55637b81edc5)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:05:46 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 14:05:48 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: fa569888-6a7c-417e-bc63-427766a2f781)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 14:05:48 [WARNING] Retrying in 4s [Retry 3/5].
+2026-06-04 15:50:37 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: c70e4513-5fd8-452e-90e0-6727c74934c2)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 15:50:37 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 15:50:40 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 1efb594b-d970-44fa-a9b5-d62260dbaab7)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 15:50:40 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 16:07:34 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 1ca2a960-c950-4941-b41f-00fc68238b3c)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:07:34 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 16:07:36 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 5151d30b-a038-4600-bce0-49e0aa3216e6)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:07:36 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 16:07:44 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: e6dc66d0-a5c4-48ae-a5fb-76a7d602ab2e)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:07:44 [WARNING] Retrying in 4s [Retry 3/5].
+2026-06-04 16:07:58 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000021651C65A90>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 13c1e7bf-69ef-4aea-b90a-9c68729d728d)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:07:58 [WARNING] Retrying in 8s [Retry 4/5].
+2026-06-04 16:42:47 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 25688f89-df1d-459d-ba2f-c293a9b1dd91)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:42:47 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 16:42:50 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: c6575887-adf5-479b-9074-0357e125a66c)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:42:50 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 16:42:55 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: dab69a00-bb68-495f-8207-95d9ef6dab78)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:42:55 [WARNING] Retrying in 4s [Retry 3/5].
+2026-06-04 16:42:59 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: f0bc4257-731a-4ded-a7ca-73d5f3fa5b8a)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:42:59 [WARNING] Retrying in 8s [Retry 4/5].
+2026-06-04 16:43:09 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 0bb861e9-81d2-4336-a94e-d3ba7c19e9b6)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:43:09 [WARNING] Retrying in 8s [Retry 5/5].
+2026-06-04 16:43:18 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 03782e10-9c96-4c4b-86fb-3d9ebb674ff0)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:51:43 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 00a67420-d5c9-44c5-814b-4a3753fa200b)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:51:43 [WARNING] Retrying in 1s [Retry 1/5].
+2026-06-04 16:51:45 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 28fb0c46-49ff-4c41-b8c7-62a7923a9ec4)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:51:45 [WARNING] Retrying in 2s [Retry 2/5].
+2026-06-04 16:51:49 [WARNING] '(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"), '(Request ID: 4b0d24dc-7a5a-40a7-9bee-576aec0d460f)')' thrown while requesting HEAD https://huggingface.co/g-group-ai-lab/gipformer-65M-rnnt/resolve/main/encoder-epoch-35-avg-6.int8.onnx
+2026-06-04 16:51:49 [WARNING] Retrying in 4s [Retry 3/5].
+2026-06-05 06:56:41 [INFO] [ENGINE] KHỚP priority=3 category=tre_can_nguoi_lon keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-05 06:56:41 [INFO] [DRY RUN] SMS: [NHU CẦU] Trẻ cần người lớn (06:56 05/06): "MẸ ƠI"
+2026-06-05 12:56:41 [INFO] [ENGINE] KHỚP priority=0 category=co_giat keyword='co giật' | 'CO GIẬT'
+2026-06-05 12:56:41 [INFO] [DRY RUN] SMS: [P0] KHẨN CẤP: Có dấu hiệu co giật (12:56 05/06): "CO GIẬT"
+2026-06-05 13:15:56 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 13:15:56 [INFO] [DRY RUN] SMS: [P1] NGUY HIỂM: Có thể bị ngã/té (13:15 05/06): "NGÃ"
+2026-06-05 13:17:33 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 13:17:33 [INFO] [DRY RUN] SMS: [P1] NGUY HIỂM: Có thể bị ngã/té (13:17 05/06): "NGÃ"
+2026-06-05 13:27:02 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='cứu tôi' | 'CỨU TÔI VỚI'
+2026-06-05 13:27:02 [INFO] [DRY RUN] SMS: [P0] KHẨN CẤP: Có người đang kêu cứu (13:27 05/06): "CỨU TÔI VỚI"
+2026-06-05 13:56:03 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 13:56:03 [INFO] [DRY RUN] SMS: [P1] NGUY HIỂM: Có thể bị ngã/té (13:56 05/06): "NGÃ"
+2026-06-05 14:20:35 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 14:20:35 [INFO] [DRY RUN] SMS: [P1] NGUY HIỂM: Có dấu hiệu chảy máu (14:20 05/06): "CHẢY MÁU"
+2026-06-05 14:29:09 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 14:29:09 [INFO] [DRY RUN] SMS: [P1] NGUY HIỂM: Có dấu hiệu chảy máu (14:29 05/06): "CHẢY MÁU"
+2026-06-05 14:44:50 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ NÓ NHẢY'
+2026-06-05 14:44:50 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-05 14:44:51 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-05 14:47:41 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 14:47:41 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-05 14:47:42 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-05 14:48:05 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 14:48:05 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-05 14:48:06 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-05 14:48:19 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-05 14:48:19 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-05 14:48:20 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-05 14:48:51 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-05 14:48:51 [INFO] [ENGINE] Cooldown còn 28s cho 'goi_me'.
+2026-06-05 14:49:02 [INFO] [ENGINE] KHỚP priority=0 category=chay_no keyword='cháy' | 'CHÁY'
+2026-06-05 14:49:02 [INFO] [SEND_SMS] P0 | chay_no | 0327544247
+2026-06-05 14:49:03 [INFO] [ENGINE] SEND_SMS packet sent | priority=0 | category=chay_no
+2026-06-05 16:02:59 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 16:02:59 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-05 16:03:00 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-05 16:03:18 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'ĐỘT QUỴ CHẢY MÁU'
+2026-06-05 16:03:18 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-05 16:03:19 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-05 16:03:37 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 16:03:37 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-05 16:03:38 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-05 16:09:52 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='cô ơi' | 'CÔ ƠI'
+2026-06-05 16:09:52 [INFO] [SEND_SMS] P3 | nguoi_cham_soc | 0327544247
+2026-06-05 16:09:53 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=nguoi_cham_soc
+2026-06-05 16:41:48 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 16:41:48 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-05 16:41:49 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-05 16:41:57 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 16:41:57 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-05 16:41:58 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-05 16:55:46 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-05 16:55:46 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-05 16:55:49 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-05 16:56:05 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-05 16:56:05 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-05 16:56:08 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-05 16:57:13 [INFO] [ENGINE] KHỚP priority=2 category=tam_ly keyword='con sợ' | 'LÒNG NHỮNG CON SỢ KHÔNG SẼ ĐÁNH TRỜI'
+2026-06-05 16:57:13 [INFO] [SEND_SMS] P2 | tam_ly | 0327544247
+2026-06-05 16:57:16 [INFO] [ENGINE] SEND_SMS packet sent | priority=2 | category=tam_ly
+2026-06-06 09:50:27 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-06 09:50:27 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 09:50:30 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 09:57:40 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'BÂY GIỜ CHẢY MÁU HAY SAO TA'
+2026-06-06 09:57:40 [INFO] [SEND_SMS] P1 | chay_mau | 0329569427
+2026-06-06 09:57:43 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 09:57:46 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 09:58:12 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 09:58:12 [WARNING] Không tìm thấy số điện thoại
+2026-06-06 10:44:29 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 10:44:29 [INFO] [SEND_SMS] P3 | goi_me | 0942966659
+2026-06-06 10:44:32 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 10:44:35 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 10:44:47 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-06 10:44:47 [INFO] [SEND_SMS] P1 | nga_te | 0942966659
+2026-06-06 10:44:50 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 10:44:53 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 10:45:01 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-06 10:45:01 [INFO] [ENGINE] Cooldown còn 1s cho 'nga_te'.
+2026-06-06 10:45:12 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'MÁU'
+2026-06-06 10:45:12 [INFO] [SEND_SMS] P1 | chay_mau | 0942966659
+2026-06-06 10:45:15 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 10:45:18 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 10:48:19 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-06 10:48:19 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 10:48:22 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 10:49:26 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-06 10:49:26 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 10:49:29 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 11:18:08 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='uống nước' | 'GIẾNG LẠC PHẢI THUÊ MÁY BƠM NƯỚC ĐỂ TÌM LẠI KHI ÁO PHAO CỦA CHÁU BÉ BẤT NGỜ BỊ TỤT NGƯỜI BỐ LẬP TỨC NHẢY XUỐNG HỖ TRỢ TRONG LÚC VỘI VÀNG SỢI DÂY CHUYỀN ĐEO TRÊN CỔ BỊ ĐỨT RỒI CHÌM XUỐNG NƯỚC GIA ĐÌNH CHO BIẾT GIÁ TRỊ SỢI DÂY CHUYỀN KHOẢNG MỘT TRĂM TRIỆU'
+2026-06-06 11:18:08 [INFO] [SEND_SMS] P3 | khat_nuoc | 0329569427
+2026-06-06 11:18:11 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 11:18:14 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 11:24:00 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'HẬU VỆ ĐỀU NGHĨ RẰNG ROY SẼ THỰC HIỆN HOẶC PHỐI HỢP NGẮN THẾ NHƯNG LẠI ĐỨNG LÊN TỎ RA CHẲNG HỀ QUAN TÂM ĐẾN TRONG KHI ĐÓ NGÃ'
+2026-06-06 11:24:00 [INFO] [SEND_SMS] P1 | nga_te | 0329569427
+2026-06-06 11:24:03 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 11:24:06 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 11:24:09 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGÃ'
+2026-06-06 11:24:09 [INFO] [ENGINE] Cooldown còn 6s cho 'nga_te'.
+2026-06-06 11:24:20 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-06 11:24:20 [INFO] [SEND_SMS] P1 | chay_mau | 0329569427
+2026-06-06 11:24:23 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 11:24:26 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 11:46:48 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 11:46:48 [INFO] [SEND_SMS] P3 | goi_me | 0329569427
+2026-06-06 11:46:51 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 11:46:54 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 11:49:47 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 11:49:47 [INFO] [SEND_SMS] P3 | goi_me | 0843789969
+2026-06-06 11:49:50 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 11:49:53 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 11:51:51 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã' | 'NGHẼ NGÃ'
+2026-06-06 11:51:51 [INFO] [SEND_SMS] P1 | nga_te | 0843789969
+2026-06-06 11:51:54 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 11:51:57 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 13:58:57 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá' | 'ĐAU MƯỜI SÁU PHẦN TRĂM CÁI MÍT ĐAU QUÁ'
+2026-06-06 13:58:58 [INFO] [SEND_SMS] P2 | dau_nguoi_benh | 0327544247
+2026-06-06 13:58:58 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá' | 'ĐAU CÁI MÍT ĐAU QUÁ'
+2026-06-06 13:58:58 [INFO] [SEND_SMS] P2 | dau_nguoi_benh | 0327544247
+2026-06-06 13:59:01 [INFO] [ENGINE] SEND_SMS packet sent | priority=2 | category=dau_nguoi_benh
+2026-06-06 13:59:01 [INFO] [ENGINE] SEND_SMS packet sent | priority=2 | category=dau_nguoi_benh
+2026-06-06 13:59:36 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá' | 'KIỂM BÁO THÌ NÓ ĐAU QUÁ'
+2026-06-06 13:59:36 [INFO] [SEND_SMS] P2 | dau_nguoi_benh | 0327544247
+2026-06-06 13:59:37 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá' | 'ĐAU THÌ NÓ ĐAU QUÁ'
+2026-06-06 13:59:37 [INFO] [SEND_SMS] P2 | dau_nguoi_benh | 0327544247
+2026-06-06 13:59:39 [INFO] [ENGINE] SEND_SMS packet sent | priority=2 | category=dau_nguoi_benh
+2026-06-06 13:59:40 [INFO] [ENGINE] SEND_SMS packet sent | priority=2 | category=dau_nguoi_benh
+2026-06-06 13:59:49 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'HAY MUỐN NÓI MẸ ƠI MẸ ƠI'
+2026-06-06 13:59:49 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 13:59:49 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ MUỐN NÓI MẸ ƠI MẸ ƠI'
+2026-06-06 13:59:49 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 13:59:52 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 13:59:53 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:00:28 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 14:00:28 [INFO] [ENGINE] Cooldown còn 21s cho 'goi_me'.
+2026-06-06 14:00:29 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 14:00:29 [INFO] [ENGINE] Cooldown còn 21s cho 'goi_me'.
+2026-06-06 14:00:53 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-06 14:00:53 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:00:53 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu' | 'CHẢY MÁU'
+2026-06-06 14:00:53 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:00:56 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:00:56 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:01:27 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI MẸ ƠI'
+2026-06-06 14:01:27 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:01:27 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI MẸ ƠI'
+2026-06-06 14:01:27 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:01:30 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:01:30 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:05:54 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'THÔNG TIN THÌ NÓ CHỈ DỰA VÀO TRƯỜNG HỢP NGUY HIỂM VÀ NGUY HIỂM HAI TRƯỜNG HỢP ĐẦU TIÊN LÀ CHẢY MÁU'
+2026-06-06 14:05:54 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:05:55 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'TRƯỜNG HỢP NGUY HIỂM VÀ NGUY HIỂM HAI TRƯỜNG HỢP ĐẦU TIÊN LÀ CHẢY MÁU'
+2026-06-06 14:05:55 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:05:57 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:05:58 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:06:00 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:06:01 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:06:06 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'TẠI VÌ NHỮNG NGƯỜI MÀ Ở XA MẸ ƠI MẸ ƠI'
+2026-06-06 14:06:06 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:06:07 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ Ở XA MẸ ƠI MẸ ƠI'
+2026-06-06 14:06:07 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:06:09 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:06:10 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:06:12 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:06:13 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:06:22 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ CON NÊN LÀ CHƯA CHẠY MẸ ƠI'
+2026-06-06 14:06:22 [INFO] [ENGINE] Cooldown còn 44s cho 'goi_me'.
+2026-06-06 14:08:42 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'TRƯỜNG HỢP CÓ NHỮNG TRƯỜNG HỢP VÍ DỤ NHƯ KHÁT NƯỚC QUÁ BÌNH THƯỜNG TA NÓI CHỮ XÁCH NƯỚC NẾU MÌNH NHIỆT THÌ LÀ MUỐN UỐNG NƯỚC CHẮC MÌNH PHẢI CHẾ MỘT CÁI BỘ KIỂU BỘ'
+2026-06-06 14:08:42 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:08:42 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'TRƯỜNG HỢP CÓ NHỮNG TRƯỜNG HỢP VÍ DỤ NHƯ KHÁT NƯỚC QUÁ BÌNH THƯỜNG TA NÓI CHỮ KHÁT NƯỚC NẾU MÌNH NHIỆT THÌ MUỐN UỐNG NƯỚC CHẮC MÌNH PHẢI CHẾ MỘT CÁI BỘ KIỂU BỘ'
+2026-06-06 14:08:42 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:08:45 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:08:45 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:08:48 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:08:48 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:09:54 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc' | 'TỨC LÀ NÓ GỬI GIƯỜI BA NÓ CHỈ GỬI CHO NGƯỜI CHĂM SÓC THÔI THÌ VẪN ĐƯỢC BIẾT LÀ NÓ BỊ LỖI MÀ'
+2026-06-06 14:09:54 [INFO] [SEND_SMS] P3 | nguoi_cham_soc | 0327544247
+2026-06-06 14:09:54 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc' | 'TỨC LÀ NÓ GỬI GIƯỜI BA NÓ CHỈ GỬI CHO NGƯỜI CHĂM SÓC THÔI THÌ VẪN ĐƯỢC BIẾT LÀ NÓ BỊ'
+2026-06-06 14:09:54 [INFO] [SEND_SMS] P3 | nguoi_cham_soc | 0327544247
+2026-06-06 14:09:57 [INFO] [SEND_SMS] P3 | nguoi_cham_soc | 0901807696
+2026-06-06 14:09:57 [INFO] [SEND_SMS] P3 | nguoi_cham_soc | 0901807696
+2026-06-06 14:10:00 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=nguoi_cham_soc
+2026-06-06 14:10:00 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=nguoi_cham_soc
+2026-06-06 14:13:10 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI CON'
+2026-06-06 14:13:10 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:13:10 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI CON'
+2026-06-06 14:13:11 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:13:13 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:13:14 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:13:16 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:13:17 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:13:28 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'NÓ NÓ NHỎ NÓ NÓI NHẢM NHẢM KÊU CON KHÔNG KHÁT NƯỚC MÀ CON NHỚ MẸ XONG RỒI NGƯỜI KHÁC NÓI CHUYỆN CÁI ĐOẠN NÀY NÓ TẤT CẢ NÓ DÀI QUÁ'
+2026-06-06 14:13:28 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:13:29 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'NÓ NÓ NHỎ NÓ NÓI NHẢM NHẢM KÊU CON KHÔNG KHÁT NƯỚC MÀ CON NHỚ MẸ NGƯỜI KHÁC NÓI CHUYỆN KHÔNG HÌNH NHƯ CÁI ĐOẠN NÀY NÓ TẤT CẢ NÓ DÀI QUÁ'
+2026-06-06 14:13:29 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:13:31 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:13:32 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:13:34 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:13:35 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:14:10 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'BÌNH THƯỜNG TAO MỚI NÓI LUÔN NÓ NÓ NÓI NHẢM NÓ KÊU CON KHÔNG KHÁT NƯỚC MÀ CON NHỚ'
+2026-06-06 14:14:10 [INFO] [ENGINE] Cooldown còn 19s cho 'khat_nuoc'.
+2026-06-06 14:14:12 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'MẸ ĐÓ THẤY KHÔNG TAO MỚI NÓI LUÔN NÓ NÓ NÓI NHẢM NÓ KÊU CON KHÔNG KHÁT NƯỚC MÀ CON NHỚ MẸ'
+2026-06-06 14:14:12 [INFO] [ENGINE] Cooldown còn 17s cho 'khat_nuoc'.
+2026-06-06 14:14:32 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'VÌ NÓ BỊ THIẾU CÁI HIỂU MẤT NGỰ CẢNH NÓ KHÔNG CÓ HIỂU NGỰ CẢNH LÀ CON KHÔNG KHÁT NƯỚC NÓ BỊ MẤT CÁI PHỦ ĐỊNH'
+2026-06-06 14:14:32 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:14:32 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'TẠI VÌ NÓ BỊ THIẾU CÁI HIỂU MẤT NGỰ CẢNH NÓ KHÔNG CÓ HIỂU NGOẠI CẢNH LÀ CON KHÔNG KHÁT NƯỚC NÓ BỊ MẤT CÁI PHỦ ĐỊNH'
+2026-06-06 14:14:33 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:14:35 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:14:36 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:14:38 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:14:39 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:16:41 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 14:16:41 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:16:41 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi' | 'MẸ ƠI'
+2026-06-06 14:16:41 [INFO] [SEND_SMS] P3 | goi_me | 0327544247
+2026-06-06 14:16:44 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:16:44 [INFO] [SEND_SMS] P3 | goi_me | 0901807696
+2026-06-06 14:16:47 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:16:47 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=goi_me
+2026-06-06 14:45:09 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'CHẢY MÁU MẸ ƠI'
+2026-06-06 14:45:09 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:45:09 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'CHẢY MÁU MẸ ƠI'
+2026-06-06 14:45:09 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:45:12 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:45:13 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:45:15 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:45:16 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:45:27 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'KHI MÀ PHÁT HIỆN ĐƯỢC CỤM TỪ CHẢY MÁU TỨC LÀ CÁI MỨC ĐỘ NGUY HIỂM LÀ LÀ MỨC CAO KHẨN CẤP THÌ NÓ SẼ GỬI CHO'
+2026-06-06 14:45:27 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:45:28 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu' | 'KHI MÀ PHÁT HIỆN ĐƯỢC CỤM TỪ CHẢY MÁU TỨC LÀ CÁI MỨC ĐỘ NGUY HIỂM LÀ LÀ MỨC CAO KHẨN CẤP THÌ NÓ SẼ GỬI CHO CÁI NGƯỜI CÓ CHỨC NĂNG'
+2026-06-06 14:45:28 [INFO] [SEND_SMS] P1 | chay_mau | 0327544247
+2026-06-06 14:45:30 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:45:31 [INFO] [SEND_SMS] P1 | chay_mau | 0901807696
+2026-06-06 14:45:33 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:45:34 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=chay_mau
+2026-06-06 14:50:11 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước' | 'KHÁT NƯỚC THÌ NÓ SẼ TÁCH RA CÁI CHỮ VÀ NÓ HIỂN THỊ BÊN KIA ĐÚNG KHÔNG MÌNH NGHE ĐƯỢC CÁI PHẦN LÀ ÂM THANH ĐỂ NÓ BIẾN NÓ TÁCH RA THÀNH CÁI'
+2026-06-06 14:50:11 [INFO] [SEND_SMS] P3 | khat_nuoc | 0327544247
+2026-06-06 14:50:14 [INFO] [SEND_SMS] P3 | khat_nuoc | 0901807696
+2026-06-06 14:50:17 [INFO] [ENGINE] SEND_SMS packet sent | priority=3 | category=khat_nuoc
+2026-06-06 14:51:28 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='té' | 'NÓ TỰ XỬ LÝ NÓ TÁCH RA CÁI BẰNG TÉT'
+2026-06-06 14:51:28 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 14:51:29 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='té' | 'NÓ TỰ XỬ LÝ NÓ TÁCH RA BẰNG TÉT'
+2026-06-06 14:51:29 [INFO] [SEND_SMS] P1 | nga_te | 0327544247
+2026-06-06 14:51:31 [INFO] [SEND_SMS] P1 | nga_te | 0901807696
+2026-06-06 14:51:32 [INFO] [SEND_SMS] P1 | nga_te | 0901807696
+2026-06-06 14:51:34 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-06 14:51:35 [INFO] [ENGINE] SEND_SMS packet sent | priority=1 | category=nga_te
+2026-06-07 21:17:33 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu'
+2026-06-07 21:17:33 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-06-07 21:17:42 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu'
+2026-06-07 21:17:42 [INFO] [ENGINE] Cooldown còn 6s cho 'chay_mau'
+2026-06-07 21:17:53 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã'
+2026-06-07 21:17:53 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-08 14:16:53 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-08 14:16:53 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-06-08 14:24:19 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='tim đau'
+2026-06-08 14:24:19 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-08 17:06:40 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-08 17:06:40 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-08 17:10:01 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã rồi'
+2026-06-08 17:10:01 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-08 17:10:04 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0642966596
+2026-06-09 10:53:23 [INFO] [ENGINE] KHỚP priority=1 category=bi_can keyword='cắn'
+2026-06-09 10:53:23 [INFO] [ENGINE] SEND_SMS P1 | bi_can | 0327544247
+2026-06-09 10:53:26 [INFO] [ENGINE] SEND_SMS P1 | bi_can | 0942966659
+2026-06-09 16:53:41 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã'
+2026-06-09 16:53:41 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-10 10:50:41 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-10 10:50:41 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-10 10:53:58 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-10 10:53:58 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-10 10:54:54 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước'
+2026-06-10 10:54:54 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0327544247
+2026-06-10 10:55:11 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu'
+2026-06-10 10:55:11 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-06-10 10:55:14 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0942966659
+2026-06-10 10:57:32 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu'
+2026-06-10 10:57:32 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-06-17 22:12:25 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-17 22:12:25 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-17 22:13:50 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-17 22:13:50 [INFO] [ENGINE] Cooldown còn 35s cho 'goi_me'
+2026-06-18 13:45:11 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá'
+2026-06-18 13:45:11 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-18 13:45:14 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-06-18 13:46:29 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-18 13:46:29 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-18 13:46:32 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-18 13:46:35 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-18 13:46:38 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-18 13:46:41 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-18 14:35:39 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-18 14:35:39 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-18 16:33:54 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-18 16:33:54 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-06-18 16:33:57 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0796793757
+2026-06-18 16:34:00 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0901807696
+2026-06-18 16:34:03 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0902650784
+2026-06-18 16:34:06 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0916266427
+2026-06-18 16:34:06 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-18 16:34:06 [INFO] [ENGINE] SEND_SMS P3 | nguoi_cham_soc | 0327544247
+2026-06-18 16:35:17 [INFO] [ENGINE] KHỚP priority=1 category=bong keyword='bị bỏng'
+2026-06-18 16:35:17 [INFO] [ENGINE] SEND_SMS P1 | bong | 0327544247
+2026-06-18 16:35:20 [INFO] [ENGINE] SEND_SMS P1 | bong | 0796793757
+2026-06-18 16:35:23 [INFO] [ENGINE] SEND_SMS P1 | bong | 0901807696
+2026-06-18 16:35:26 [INFO] [ENGINE] SEND_SMS P1 | bong | 0902650784
+2026-06-18 16:35:29 [INFO] [ENGINE] SEND_SMS P1 | bong | 0916266427
+2026-06-18 16:35:30 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-18 16:35:30 [INFO] [ENGINE] Cooldown còn 204s cho 'keu_cuu'
+2026-06-18 16:36:54 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-18 16:36:54 [INFO] [ENGINE] Cooldown còn 120s cho 'keu_cuu'
+2026-06-18 16:50:50 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-18 16:50:50 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-18 16:50:53 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-18 16:50:57 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-18 16:51:00 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-18 16:51:03 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-18 16:51:54 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã rồi'
+2026-06-18 16:51:54 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-18 16:51:57 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0796793757
+2026-06-18 16:52:00 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0901807696
+2026-06-18 16:52:03 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0902650784
+2026-06-18 16:52:32 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='té'
+2026-06-18 16:52:32 [INFO] [ENGINE] Cooldown còn 82s cho 'nga_te'
+2026-06-18 16:52:39 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='té'
+2026-06-18 16:52:39 [INFO] [ENGINE] Cooldown còn 76s cho 'nga_te'
+2026-06-18 16:52:52 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-18 16:52:52 [INFO] [ENGINE] Cooldown còn 179s cho 'dau_tim'
+2026-06-18 16:53:03 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='con khát'
+2026-06-18 16:53:03 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0327544247
+2026-06-18 16:55:37 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu'
+2026-06-18 16:55:37 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-06-18 16:55:40 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0796793757
+2026-06-18 16:55:43 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0901807696
+2026-06-18 16:55:46 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0902650784
+2026-06-18 23:32:19 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-18 23:32:19 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-18 23:32:55 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-18 23:32:55 [INFO] [ENGINE] Cooldown còn 85s cho 'goi_me'
+2026-06-18 23:32:58 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-18 23:32:58 [INFO] [ENGINE] Cooldown còn 81s cho 'goi_me'
+2026-06-19 10:04:35 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-19 10:04:35 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-19 10:04:56 [INFO] [ENGINE] KHỚP priority=3 category=goi_ba keyword='bố ơi'
+2026-06-19 10:04:56 [INFO] [ENGINE] SEND_SMS P3 | goi_ba | 0327544247
+2026-06-19 10:07:11 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-19 10:07:11 [INFO] [ENGINE] SEND_SMS P3 | goi_me | 0327544247
+2026-06-19 14:39:24 [INFO] [ENGINE] KHỚP priority=0 category=kho_tho keyword='khó thở'
+2026-06-19 14:39:24 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0327544247
+2026-06-19 14:39:27 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0796793757
+2026-06-19 14:39:30 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0901807696
+2026-06-19 14:39:33 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0902650784
+2026-06-19 14:39:36 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0916266427
+2026-06-19 14:41:51 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-19 14:41:51 [INFO] [ENGINE] [goi_me] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 14:42:56 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='máu'
+2026-06-19 14:42:57 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-06-19 14:45:06 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-19 14:45:06 [INFO] [ENGINE] [goi_me] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 14:45:23 [INFO] [ENGINE] KHỚP priority=3 category=goi_ba keyword='bố ơi'
+2026-06-19 14:45:23 [INFO] [ENGINE] [goi_ba] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 14:45:30 [INFO] [ENGINE] KHỚP priority=3 category=goi_ba keyword='bố ơi'
+2026-06-19 14:45:30 [INFO] [ENGINE] [goi_ba] Lần gọi 2 (+8s) — gửi SMS
+2026-06-19 14:45:30 [INFO] [ENGINE] SEND_SMS P3 | goi_ba | 0327544247
+2026-06-19 14:47:59 [INFO] [ENGINE] KHỚP priority=2 category=met_moi keyword='khó chịu quá'
+2026-06-19 14:47:59 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0327544247
+2026-06-19 14:50:22 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau quá'
+2026-06-19 14:50:22 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-19 14:50:48 [INFO] [ENGINE] KHỚP priority=0 category=kho_tho keyword='khó thở'
+2026-06-19 14:50:48 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0327544247
+2026-06-19 14:50:51 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0796793757
+2026-06-19 14:50:54 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0901807696
+2026-06-19 14:50:57 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0902650784
+2026-06-19 14:51:00 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0916266427
+2026-06-19 14:51:29 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-19 14:51:29 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-06-19 14:51:32 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0796793757
+2026-06-19 14:51:35 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0901807696
+2026-06-19 14:51:36 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-06-19 14:51:36 [INFO] [ENGINE] [goi_me] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 14:51:38 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0902650784
+2026-06-19 14:51:41 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0916266427
+2026-06-19 14:53:30 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 14:53:31 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-19 14:53:40 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 14:53:40 [INFO] [ENGINE] Cooldown còn 6s cho 'dau_nguoi_benh'
+2026-06-19 14:53:44 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ đâu'
+2026-06-19 14:53:44 [INFO] [ENGINE] [goi_me] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 14:53:52 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 14:53:53 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-19 14:54:12 [INFO] [ENGINE] KHỚP priority=3 category=doi_bung keyword='đói bụng'
+2026-06-19 14:54:12 [INFO] [ENGINE] SEND_SMS P3 | doi_bung | 0327544247
+2026-06-19 14:55:38 [INFO] [ENGINE] KHỚP priority=0 category=kho_tho keyword='khó thở'
+2026-06-19 14:55:38 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0327544247
+2026-06-19 14:55:41 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0796793757
+2026-06-19 14:55:44 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0901807696
+2026-06-19 14:55:47 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0902650784
+2026-06-19 14:55:51 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0916266427
+2026-06-19 15:00:14 [INFO] [ENGINE] KHỚP priority=0 category=dot_quy keyword='xỉu'
+2026-06-19 15:00:14 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0796793757
+2026-06-19 15:00:17 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0901807696
+2026-06-19 15:00:20 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0902650784
+2026-06-19 15:00:23 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0916266427
+2026-06-19 15:10:00 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:10:00 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:10:14 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-19 15:10:14 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-06-19 15:10:17 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0796793757
+2026-06-19 15:10:20 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0901807696
+2026-06-19 15:10:23 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0902650784
+2026-06-19 15:10:26 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0916266427
+2026-06-19 15:12:57 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-19 15:12:57 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-19 15:13:00 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-19 15:13:03 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-19 15:13:06 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-19 15:13:09 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-19 15:13:46 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:13:46 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:17:51 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:17:51 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:19:30 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-19 15:19:30 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-19 15:19:33 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-19 15:19:36 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-19 15:19:39 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-19 15:19:42 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-19 15:20:02 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-19 15:20:02 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-19 15:20:05 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-19 15:20:08 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-19 15:20:11 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-19 15:20:14 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-19 15:20:54 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-06-19 15:20:54 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-06-19 15:20:57 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-06-19 15:21:00 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-06-19 15:21:03 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-06-19 15:21:06 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-06-19 15:21:52 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã rồi'
+2026-06-19 15:21:52 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-19 15:21:55 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0901807696
+2026-06-19 15:21:58 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0916266427
+2026-06-19 15:22:06 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã'
+2026-06-19 15:22:06 [INFO] [ENGINE] Cooldown còn 5s cho 'nga_te'
+2026-06-19 15:22:44 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='bị ngã'
+2026-06-19 15:22:44 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-06-19 15:22:47 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0901807696
+2026-06-19 15:22:50 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0916266427
+2026-06-19 15:23:06 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 15:23:06 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-06-19 15:23:09 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-19 15:23:12 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 15:23:12 [INFO] [ENGINE] Cooldown còn 9s cho 'dau_nguoi_benh'
+2026-06-19 15:23:47 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-19 15:23:47 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-06-19 15:23:50 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-06-19 15:24:08 [INFO] [ENGINE] KHỚP priority=3 category=doi_bung keyword='đói bụng'
+2026-06-19 15:24:08 [INFO] [ENGINE] SEND_SMS P3 | doi_bung | 0901807696
+2026-06-19 15:24:11 [INFO] [ENGINE] SEND_SMS P3 | doi_bung | 0327544247
+2026-06-19 15:24:16 [INFO] [ENGINE] KHỚP priority=3 category=doi_bung keyword='đói bụng'
+2026-06-19 15:24:16 [INFO] [ENGINE] Cooldown còn 12s cho 'doi_bung'
+2026-06-19 15:24:17 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:24:17 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:24:21 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:24:21 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 2 (+4s) — gửi SMS
+2026-06-19 15:24:21 [INFO] [ENGINE] SEND_SMS P3 | nguoi_cham_soc | 0901807696
+2026-06-19 15:24:24 [INFO] [ENGINE] SEND_SMS P3 | nguoi_cham_soc | 0327544247
+2026-06-19 15:24:47 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:24:47 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:24:58 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:24:58 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:25:07 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:25:07 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 2 (+9s) — gửi SMS
+2026-06-19 15:25:07 [INFO] [ENGINE] SEND_SMS P3 | nguoi_cham_soc | 0901807696
+2026-06-19 15:25:10 [INFO] [ENGINE] SEND_SMS P3 | nguoi_cham_soc | 0327544247
+2026-06-19 15:25:53 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:25:53 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:27:14 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-06-19 15:27:14 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-06-19 15:31:18 [INFO] [ENGINE] KHỚP priority=0 category=dot_quy keyword='không nói được'
+2026-06-19 15:31:18 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0327544247
+2026-06-19 15:31:21 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0796793757
+2026-06-19 15:31:24 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0901807696
+2026-06-19 15:31:27 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0902650784
+2026-06-19 15:31:30 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0916266427
+2026-06-19 15:32:26 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='giúp'
+2026-06-19 15:32:26 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-06-19 15:32:29 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0796793757
+2026-06-19 15:32:32 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0901807696
+2026-06-19 15:32:35 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0902650784
+2026-06-19 15:32:38 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0916266427
+2026-06-19 15:38:47 [INFO] [ENGINE] KHỚP priority=2 category=met_moi keyword='mệt quá'
+2026-06-19 15:38:47 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0901807696
+2026-06-19 15:38:50 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0327544247
+2026-06-20 16:09:43 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-06-20 16:09:43 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-06-20 16:09:46 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-01 15:50:29 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:50:29 [INFO] [ENGINE] [goi_con] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:52:00 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:52:00 [INFO] [ENGINE] [goi_con] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:52:31 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='tức ngực'
+2026-07-01 15:52:31 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-01 15:52:34 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-01 15:52:37 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-01 15:52:40 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-01 15:52:43 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-07-01 15:53:02 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:53:02 [INFO] [ENGINE] [goi_con] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:53:05 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:53:05 [INFO] [ENGINE] [goi_con] Lần gọi 2 (+3s) — gửi SMS
+2026-07-01 15:53:05 [INFO] [ENGINE] SEND_SMS P3 | goi_con | 0901807696
+2026-07-01 15:53:08 [INFO] [ENGINE] SEND_SMS P3 | goi_con | 0327544247
+2026-07-01 15:53:39 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:53:39 [INFO] [ENGINE] [goi_con] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:54:22 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:54:22 [INFO] [ENGINE] [goi_con] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:54:26 [INFO] [ENGINE] KHỚP priority=3 category=goi_con keyword='con ơi'
+2026-07-01 15:54:26 [INFO] [ENGINE] [goi_con] Lần gọi 2 (+4s) — gửi SMS
+2026-07-01 15:54:26 [INFO] [ENGINE] SEND_SMS P3 | goi_con | 0901807696
+2026-07-01 15:54:29 [INFO] [ENGINE] SEND_SMS P3 | goi_con | 0327544247
+2026-07-01 15:54:41 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='tức ngực'
+2026-07-01 15:54:41 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-01 15:54:44 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-01 15:54:47 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-01 15:54:50 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-01 15:54:53 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-07-01 15:55:11 [INFO] [ENGINE] KHỚP priority=3 category=goi_me keyword='mẹ ơi'
+2026-07-01 15:55:11 [INFO] [ENGINE] [goi_me] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-01 15:55:21 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-01 15:55:21 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-01 15:55:24 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 14:32:08 [INFO] [ENGINE] KHỚP priority=0 category=kho_tho keyword='khó thở'
+2026-07-06 14:32:08 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0327544247
+2026-07-06 14:32:11 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0796793757
+2026-07-06 14:32:14 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0901807696
+2026-07-06 14:32:17 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0902650784
+2026-07-06 14:32:20 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0916266427
+2026-07-06 14:32:26 [INFO] [ENGINE] KHỚP priority=2 category=met_moi keyword='mệt rồi'
+2026-07-06 14:32:26 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0901807696
+2026-07-06 14:32:29 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0327544247
+2026-07-06 15:18:31 [INFO] [ENGINE] KHỚP priority=0 category=keu_cuu keyword='cứu'
+2026-07-06 15:18:31 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0327544247
+2026-07-06 15:18:34 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0796793757
+2026-07-06 15:18:37 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0901807696
+2026-07-06 15:18:40 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0902650784
+2026-07-06 15:18:43 [INFO] [ENGINE] SEND_SMS P0 | keu_cuu | 0916266427
+2026-07-06 15:19:26 [INFO] [ENGINE] KHỚP priority=0 category=co_giat keyword='co giật'
+2026-07-06 15:19:26 [INFO] [ENGINE] SEND_SMS P0 | co_giat | 0327544247
+2026-07-06 15:19:29 [INFO] [ENGINE] SEND_SMS P0 | co_giat | 0796793757
+2026-07-06 15:19:32 [INFO] [ENGINE] SEND_SMS P0 | co_giat | 0901807696
+2026-07-06 15:19:35 [INFO] [ENGINE] SEND_SMS P0 | co_giat | 0902650784
+2026-07-06 15:19:38 [INFO] [ENGINE] SEND_SMS P0 | co_giat | 0916266427
+2026-07-06 15:22:57 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-07-06 15:22:57 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-06 15:23:00 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-06 15:23:03 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-06 15:23:06 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-06 15:23:10 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-07-06 15:23:51 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:23:51 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 15:23:54 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 15:24:22 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:24:22 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 15:24:25 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 15:24:53 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:24:53 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 15:24:56 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 15:29:14 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:29:14 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 15:29:17 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 15:29:26 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:29:26 [INFO] [ENGINE] Cooldown còn 3s cho 'dau_nguoi_benh'
+2026-07-06 15:29:30 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:29:30 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 15:29:33 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 15:29:35 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau bụng'
+2026-07-06 15:29:35 [INFO] [ENGINE] Cooldown còn 10s cho 'dau_nguoi_benh'
+2026-07-06 15:44:02 [INFO] [ENGINE] KHỚP priority=0 category=kho_tho keyword='khó thở'
+2026-07-06 15:44:02 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0327544247
+2026-07-06 15:44:05 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0796793757
+2026-07-06 15:44:08 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0901807696
+2026-07-06 15:44:10 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='té'
+2026-07-06 15:44:10 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-07-06 15:44:11 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0902650784
+2026-07-06 15:44:13 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0901807696
+2026-07-06 15:44:14 [INFO] [ENGINE] SEND_SMS P0 | kho_tho | 0916266427
+2026-07-06 15:44:16 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0916266427
+2026-07-06 15:44:21 [INFO] [ENGINE] KHỚP priority=2 category=uong_thuoc keyword='uống thuốc'
+2026-07-06 15:44:21 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0901807696
+2026-07-06 15:44:24 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0327544247
+2026-07-06 15:44:29 [INFO] [ENGINE] KHỚP priority=2 category=mat_ngu keyword='mất ngủ'
+2026-07-06 15:44:29 [INFO] [ENGINE] SEND_SMS P2 | mat_ngu | 0901807696
+2026-07-06 15:44:32 [INFO] [ENGINE] KHỚP priority=2 category=mat_ngu keyword='mất ngủ'
+2026-07-06 15:44:32 [INFO] [ENGINE] SEND_SMS P2 | mat_ngu | 0327544247
+2026-07-06 15:44:32 [INFO] [ENGINE] Cooldown còn 12s cho 'mat_ngu'
+2026-07-06 15:44:42 [INFO] [ENGINE] KHỚP priority=2 category=met_moi keyword='mệt quá'
+2026-07-06 15:44:42 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0901807696
+2026-07-06 15:44:45 [INFO] [ENGINE] SEND_SMS P2 | met_moi | 0327544247
+2026-07-06 15:44:48 [INFO] [ENGINE] KHỚP priority=2 category=tam_ly keyword='sợ quá'
+2026-07-06 15:44:48 [INFO] [ENGINE] SEND_SMS P2 | tam_ly | 0901807696
+2026-07-06 15:44:51 [INFO] [ENGINE] SEND_SMS P2 | tam_ly | 0327544247
+2026-07-06 15:44:58 [INFO] [ENGINE] KHỚP priority=3 category=di_ve_sinh keyword='đi vệ sinh'
+2026-07-06 15:44:58 [INFO] [ENGINE] SEND_SMS P3 | di_ve_sinh | 0901807696
+2026-07-06 15:45:01 [INFO] [ENGINE] SEND_SMS P3 | di_ve_sinh | 0327544247
+2026-07-06 15:45:55 [INFO] [ENGINE] KHỚP priority=3 category=nguoi_cham_soc keyword='người chăm sóc'
+2026-07-06 15:45:55 [INFO] [ENGINE] [nguoi_cham_soc] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-06 15:47:22 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='tức ngực'
+2026-07-06 15:47:22 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-06 15:47:25 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-06 15:47:28 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-06 15:47:31 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-06 15:47:34 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-07-06 15:55:25 [INFO] [ENGINE] KHỚP priority=0 category=dot_quy keyword='bất tỉnh'
+2026-07-06 15:55:25 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0327544247
+2026-07-06 15:55:28 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0796793757
+2026-07-06 15:55:31 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0901807696
+2026-07-06 15:55:34 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0902650784
+2026-07-06 15:55:37 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0916266427
+2026-07-06 15:56:29 [INFO] [ENGINE] KHỚP priority=3 category=goi_ba_noi keyword='bà đâu'
+2026-07-06 15:56:29 [INFO] [ENGINE] [goi_ba_noi] Lần gọi 1 — chờ xác nhận trong 10s
+2026-07-06 15:56:40 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-07-06 15:56:40 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-06 15:56:43 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-06 15:56:46 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-06 15:56:49 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-06 15:56:52 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427
+2026-07-06 15:57:13 [INFO] [ENGINE] KHỚP priority=0 category=dot_quy keyword='bất tỉnh'
+2026-07-06 15:57:13 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0327544247
+2026-07-06 15:57:16 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0796793757
+2026-07-06 15:57:19 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0901807696
+2026-07-06 15:57:22 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0902650784
+2026-07-06 15:57:25 [INFO] [ENGINE] SEND_SMS P0 | dot_quy | 0916266427
+2026-07-06 16:04:16 [INFO] [ENGINE] KHỚP priority=1 category=nga_te keyword='ngã rồi'
+2026-07-06 16:04:16 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0327544247
+2026-07-06 16:04:20 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0901807696
+2026-07-06 16:04:23 [INFO] [ENGINE] SEND_SMS P1 | nga_te | 0916266427
+2026-07-06 16:04:45 [INFO] [ENGINE] KHỚP priority=1 category=chay_mau keyword='chảy máu'
+2026-07-06 16:04:45 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0327544247
+2026-07-06 16:04:48 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0901807696
+2026-07-06 16:04:51 [INFO] [ENGINE] SEND_SMS P1 | chay_mau | 0916266427
+2026-07-06 16:07:39 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước'
+2026-07-06 16:07:39 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0901807696
+2026-07-06 16:07:42 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0327544247
+2026-07-06 16:08:31 [INFO] [ENGINE] KHỚP priority=2 category=uong_thuoc keyword='thuốc đâu rồi'
+2026-07-06 16:08:31 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0901807696
+2026-07-06 16:08:34 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0327544247
+2026-07-06 16:09:10 [INFO] [ENGINE] KHỚP priority=2 category=uong_thuoc keyword='thuốc đâu rồi'
+2026-07-06 16:09:10 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0901807696
+2026-07-06 16:09:13 [INFO] [ENGINE] SEND_SMS P2 | uong_thuoc | 0327544247
+2026-07-06 16:09:31 [INFO] [ENGINE] KHỚP priority=2 category=dau_nguoi_benh keyword='đau đầu'
+2026-07-06 16:09:31 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0901807696
+2026-07-06 16:09:34 [INFO] [ENGINE] SEND_SMS P2 | dau_nguoi_benh | 0327544247
+2026-07-06 16:11:45 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước'
+2026-07-06 16:11:45 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0901807696
+2026-07-06 16:11:48 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0327544247
+2026-07-06 16:12:06 [INFO] [ENGINE] KHỚP priority=3 category=xem_tivi keyword='mở ti vi cho'
+2026-07-06 16:12:06 [INFO] [ENGINE] SEND_SMS P3 | xem_tivi | 0901807696
+2026-07-06 16:12:09 [INFO] [ENGINE] SEND_SMS P3 | xem_tivi | 0327544247
+2026-07-06 16:12:19 [INFO] [ENGINE] KHỚP priority=3 category=khat_nuoc keyword='khát nước'
+2026-07-06 16:12:19 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0901807696
+2026-07-06 16:12:22 [INFO] [ENGINE] SEND_SMS P3 | khat_nuoc | 0327544247
+2026-07-07 09:04:21 [INFO] [ENGINE] KHỚP priority=0 category=dau_tim keyword='đau tim'
+2026-07-07 09:04:22 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0327544247
+2026-07-07 09:04:25 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0796793757
+2026-07-07 09:04:28 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0901807696
+2026-07-07 09:04:31 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0902650784
+2026-07-07 09:04:34 [INFO] [ENGINE] SEND_SMS P0 | dau_tim | 0916266427

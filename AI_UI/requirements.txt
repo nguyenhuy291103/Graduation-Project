@@ -1,0 +1,10 @@
+PyQt5>=5.15
+numpy>=1.26
+sounddevice>=0.5
+sherpa-onnx>=1.13
+huggingface-hub>=0.35
+pyserial>=3.5
+silero-vad>=5.1
+# PyTorch: cài riêng theo hướng dẫn bên dưới
+# CPU:  pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+# GPU:  pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu124
